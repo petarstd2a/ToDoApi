@@ -1,0 +1,14 @@
+C:\Users\Petar\Desktop\Anto\ToDoApi\ToDoApi\ToDoApi\bin\Debug\netcoreapp2.1\ToDoApi.deps.json
+C:\Users\Petar\Desktop\Anto\ToDoApi\ToDoApi\ToDoApi\bin\Debug\netcoreapp2.1\ToDoApi.runtimeconfig.json
+C:\Users\Petar\Desktop\Anto\ToDoApi\ToDoApi\ToDoApi\bin\Debug\netcoreapp2.1\ToDoApi.runtimeconfig.dev.json
+C:\Users\Petar\Desktop\Anto\ToDoApi\ToDoApi\ToDoApi\bin\Debug\netcoreapp2.1\ToDoApi.dll
+C:\Users\Petar\Desktop\Anto\ToDoApi\ToDoApi\ToDoApi\bin\Debug\netcoreapp2.1\ToDoApi.pdb
+C:\Users\Petar\Desktop\Anto\ToDoApi\ToDoApi\ToDoApi\obj\Debug\netcoreapp2.1\ToDoApi.csprojAssemblyReference.cache
+C:\Users\Petar\Desktop\Anto\ToDoApi\ToDoApi\ToDoApi\obj\Debug\netcoreapp2.1\ToDoApi.csproj.CoreCompileInputs.cache
+C:\Users\Petar\Desktop\Anto\ToDoApi\ToDoApi\ToDoApi\obj\Debug\netcoreapp2.1\ToDoApi.RazorAssemblyInfo.cache
+C:\Users\Petar\Desktop\Anto\ToDoApi\ToDoApi\ToDoApi\obj\Debug\netcoreapp2.1\ToDoApi.RazorAssemblyInfo.cs
+C:\Users\Petar\Desktop\Anto\ToDoApi\ToDoApi\ToDoApi\obj\Debug\netcoreapp2.1\ToDoApi.AssemblyInfoInputs.cache
+C:\Users\Petar\Desktop\Anto\ToDoApi\ToDoApi\ToDoApi\obj\Debug\netcoreapp2.1\ToDoApi.AssemblyInfo.cs
+C:\Users\Petar\Desktop\Anto\ToDoApi\ToDoApi\ToDoApi\obj\Debug\netcoreapp2.1\ToDoApi.RazorTargetAssemblyInfo.cache
+C:\Users\Petar\Desktop\Anto\ToDoApi\ToDoApi\ToDoApi\obj\Debug\netcoreapp2.1\ToDoApi.dll
+C:\Users\Petar\Desktop\Anto\ToDoApi\ToDoApi\ToDoApi\obj\Debug\netcoreapp2.1\ToDoApi.pdb
